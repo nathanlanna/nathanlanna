@@ -4,7 +4,7 @@
 ![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanlanna&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlanna&layout=compact&theme=dark)](https://github.com/nathanlanna/github-readme-stats)
 
-<p style="display:flex ; justify-content:center">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=nathanlanna&row=2&column=3&theme=tokyonight"/>
 </p>
 <div align="center">  
