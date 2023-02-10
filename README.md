@@ -1,9 +1,8 @@
 # Olá, me chamo Nathan
 ### Front-End Developer
 
-![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanlanna&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlanna&layout=compact&theme=dark)](https://github.com/nathanlanna/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanlanna&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlanna&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=nathanlanna&row=2&column=3&theme=tokyonight"/>
 </p>
